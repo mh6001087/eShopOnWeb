@@ -10,7 +10,7 @@ public class JsonExtensions
         var testParent = new TestParent
         {
             Id = 7,
-            Name = "Test name",
+            Name = "Test new name",
             Children = new[]
             {
                     new TestChild(),
